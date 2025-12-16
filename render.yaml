@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: exam-supervisor
+    env: java
+    buildCommand: cd "projet CL/projet" && ./mvnw clean package -DskipTests
+    startCommand: java -jar "projet CL/projet/target/*.jar"
+    envVars:
+      - key: PORT
+        value: 8080
+      - key: SPRING_PROFILES_ACTIVE
+        value: production
