@@ -1,0 +1,13 @@
+{
+  "$schema": "https://railway.app/railway.schema.json",
+  "build": {
+    "builder": "NIXPACKS",
+    "buildCommand": "cd \"projet CL/projet\" && ./mvnw clean package -DskipTests",
+    "startCommand": "cd \"projet CL/projet\" && java -jar target/*.jar"
+  },
+  "deploy": {
+    "startCommand": "cd \"projet CL/projet\" && java -jar target/*.jar",
+    "restartPolicyType": "ON_FAILURE",
+    "restartPolicyMaxRetries": 10
+  }
+}
