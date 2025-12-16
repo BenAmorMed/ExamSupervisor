@@ -1,0 +1,45 @@
+ملخص الاختبارات المضافة:
+1. EnseignantTest.java - اختبارات لكيان Enseignant
+✅ testGetCharge() - حساب الشحنة
+✅ testGetChargeWithNoMatieres() - الشحنة بدون مواد
+✅ testCalculeHoursSelctedWithNoSessions() - حساب الساعات بدون جلسات
+✅ testCalculeHoursSelctedWithOneSession() - حساب الساعات مع جلسة واحدة
+✅ testCalculeHoursSelctedWithMultipleSessions() - حساب الساعات مع عدة جلسات
+✅ testIsFullChargeWhenNotFull() - الشحنة غير مكتملة
+✅ testIsFullChargeWhenExactlyFull() - الشحنة مكتملة تماماً
+✅ testIsFullChargeWhenOverFull() - الشحنة تتجاوز الحد
+✅ testIsFullChargeWithPartialCharge() - الشحنة جزئية
+2. EnseignantServiceTest.java - اختبارات لخدمة EnseignantService
+✅ testLoginWithValidCredentials() - تسجيل الدخول بنجاح
+✅ testLoginWithInvalidCredentials() - تسجيل الدخول فاشل
+✅ testGetDisponibilite() - الحصول على الجلسات المتاحة
+✅ testChoisirSessionSuccess() - اختيار جلسة بنجاح
+✅ testChoisirSessionTeacherNotFound() - الأستاذ غير موجود
+✅ testChoisirSessionSessionNotFound() - الجلسة غير موجودة
+✅ testChoisirSessionFull() - الجلسة ممتلئة
+✅ testChoisirSessionTeacherAtFullCharge() - الأستاذ بشحنة كاملة
+✅ testChoisirSessionWouldExceedCharge() - تجاوز الشحنة
+✅ testChoisirSessionTimeConflict() - تعارض في الوقت
+✅ testAnnulerChoixSuccess() - إلغاء الاختيار بنجاح
+✅ testAnnulerChoixTeacherNotInSession() - الأستاذ غير موجود في الجلسة
+✅ testMesSeances() - الحصول على جلسات الأستاذ
+✅ testGetById() - الحصول على الأستاذ بالمعرف
+✅ testGetSessionsWithAllMatieres() - الجلسات بجميع المواد
+3. SessionExamenTest.java - اختبارات لكيان SessionExamen
+✅ testEstDisponibleWhenAvailable() - الجلسة متاحة
+✅ testEstDisponibleWhenFull() - الجلسة ممتلئة
+✅ testPlacesRestantes() - الأماكن المتبقية
+✅ testAddSuerveillant() - إضافة مراقب
+✅ testOverlapWith() - التحقق من تعارض الأوقات
+كيفية تشغيل الاختبارات:
+يمكنك تشغيل الاختبارات باستخدام:
+# تشغيل جميع الاختبارات
+mvn test
+
+# تشغيل اختبار محدد
+mvn test -Dtest=EnseignantTest
+mvn test -Dtest=EnseignantServiceTest
+mvn test -Dtest=SessionExamenTest
+
+# تشغيل اختبار معين
+mvn test -Dtest=EnseignantTest#testGetCharge

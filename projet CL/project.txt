@@ -1,0 +1,227 @@
+ Choisir un produit éco-responsable à fort potentiel de vente 1. Définir le thème et la problématique du projet. 2. Faire une recherche de tendances sur Google Trends. 3. Sélectionner la niche ou le produit à étudier. 4. Analyser la concurrence à l’aide de Google Search. 5. Effectuer une recherche de mots-clés SEO (Keyword Planner, SEMrush…). 6. Planifier le contenu ou les axes d’analyse dans Trello. 7. Optimiser les éléments SEO (balises, structure, maillage). 8. Suivre les résultats à l’aide de Google Analytics et Search Console. 9. Présenter un rapport synthétique avec visuels et recommandations. 10. Évaluer le projet et proposer des pistes d’amélioration POUR UNE presentation powerpoint
+🌱 Projet 4 : Choisir un produit éco-responsable à fort potentiel de vente
+Explication étape par étape (parfait pour un exposé ou un PowerPoint)
+1. Définir le thème et la problématique
+
+Thème : Étude d’un produit éco-responsable présentant un fort potentiel de marché.
+
+Problématique possible :
+
+Comment identifier un produit éco-responsable qui connaît une demande croissante et qui pourrait devenir un succès commercial en 2025 ?
+
+2. Faire une recherche de tendances sur Google Trends
+
+Objectif : comprendre ce que les gens recherchent réellement.
+
+Exemples de termes à analyser :
+
+« produits écologiques »
+
+« zéro déchet »
+
+« gourde inox »
+
+« shampoing solide »
+
+« brosse à dents en bambou »
+
+À observer :
+
+L’évolution de l’intérêt au fil du temps
+
+Les pays/régions les plus intéressés
+
+Les comparaisons entre plusieurs produits
+
+Les périodes saisonnières
+
+3. Sélectionner la niche ou le produit
+
+Deux possibilités :
+
+✔ Choisir une niche complète
+
+Exemple :
+
+Produits zéro déchet
+
+Produits écologiques pour la maison
+
+Accessoires éco-responsables
+
+✔ Choisir un produit précis
+
+Exemple :
+
+Gourde en inox
+
+Brosse à dents en bambou
+
+Savon/shampoing solide
+
+Sac réutilisable
+
+Le choix doit se baser sur :
+
+Les tendances
+
+Le niveau de concurrence
+
+Le prix moyen
+
+L’impact écologique
+
+4. Analyser la concurrence via Google Search
+
+Tape par exemple : « acheter gourde inox ».
+
+Analyse :
+
+Qui sont les principaux concurrents ?
+
+Leurs prix
+
+Leurs arguments (eco-friendly, durable, design…)
+
+Les avis clients
+
+Leurs forces et faiblesses
+
+À vérifier aussi :
+
+Amazon
+
+Boutiques spécialisées
+
+Sites e-commerce
+
+5. Recherche de mots-clés SEO
+
+Outils possibles :
+
+Google Keyword Planner
+
+SEMrush
+
+Ubersuggest
+
+Ahrefs (free mode limité)
+
+Les données à extraire :
+
+Volume de recherche
+
+Difficulté du mot-clé
+
+CPC (coût par clic)
+
+Mots-clés associés
+
+Exemples :
+
+« gourde inox » → très recherché
+
+« gourde écologique » → concurrence moyenne
+
+« gourde réutilisable école » → mot-clé long (facile à cibler)
+
+6. Planifier le contenu / les analyses dans Trello
+
+Créer un tableau avec des listes comme :
+
+Idées & brainstorming
+
+Analyse Google Trends
+
+Analyse concurrence
+
+Mots-clés SEO
+
+Rédaction & optimisations
+
+Création du rapport
+
+Slides PowerPoint
+
+Chaque tâche = carte Trello.
+
+7. Optimiser les éléments SEO
+
+Pour un site ou une analyse SEO, optimiser :
+
+Balise Title
+
+Meta description
+
+H1, H2, H3
+
+Structure logique
+
+Liens internes
+
+Images compressées
+
+Texte ALT
+
+Contenu clair et utile
+
+Ajouter :
+
+FAQ
+
+Comparatifs
+
+Avantages produits
+
+Impact environnemental
+
+8. Suivre les résultats (Google Analytics & Search Console)
+Google Analytics :
+
+Nombre de visiteurs
+
+Comportement (pages vues, temps)
+
+Conversion
+
+Search Console :
+
+Mots-clés sur lesquels le site apparaît
+
+Clics, impressions
+
+Position moyenne
+
+Erreurs techniques à corriger
+
+9. Présenter un rapport synthétique
+
+Le rapport doit contenir :
+
+Graphiques Google Trends
+
+Tableau d’analyse concurrentielle
+
+Tableau des mots-clés
+
+Résultats SEO
+
+Opportunité marché
+
+Conseils & recommandations
+
+Visuels / schémas / captures d’écran
+
+10. Évaluer le projet + pistes d’amélioration
+
+Inclure :
+
+Ce qui a bien fonctionné
+
+Ce qu’il faudrait améliorer
+
+Limites de l’étude
+
+Produits alternatifs possibles
+
+Idées pour développer la stratégie marketing
